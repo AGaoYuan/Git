@@ -1,0 +1,18 @@
+C:\Users\zhang\documents\visual studio 2012\Projects\MyProgram\BoutiqueSuite\bin\Debug\BoutiqueSuite.exe.config
+C:\Users\zhang\documents\visual studio 2012\Projects\MyProgram\BoutiqueSuite\bin\Debug\BoutiqueSuite.exe
+C:\Users\zhang\documents\visual studio 2012\Projects\MyProgram\BoutiqueSuite\bin\Debug\BoutiqueSuite.pdb
+C:\Users\zhang\documents\visual studio 2012\Projects\MyProgram\BoutiqueSuite\obj\Debug\BoutiqueSuite.csprojResolveAssemblyReference.cache
+C:\Users\zhang\documents\visual studio 2012\Projects\MyProgram\BoutiqueSuite\obj\Debug\BoutiqueSuite.FrmMain.resources
+C:\Users\zhang\documents\visual studio 2012\Projects\MyProgram\BoutiqueSuite\obj\Debug\BoutiqueSuite.Properties.Resources.resources
+C:\Users\zhang\documents\visual studio 2012\Projects\MyProgram\BoutiqueSuite\obj\Debug\BoutiqueSuite.csproj.GenerateResource.Cache
+C:\Users\zhang\documents\visual studio 2012\Projects\MyProgram\BoutiqueSuite\obj\Debug\BoutiqueSuite.exe
+C:\Users\zhang\documents\visual studio 2012\Projects\MyProgram\BoutiqueSuite\obj\Debug\BoutiqueSuite.pdb
+E:\BoutiqueSuite\bin\Debug\BoutiqueSuite.exe.config
+E:\BoutiqueSuite\obj\Debug\BoutiqueSuite.exe
+E:\BoutiqueSuite\obj\Debug\BoutiqueSuite.pdb
+E:\BoutiqueSuite\bin\Debug\BoutiqueSuite.exe
+E:\BoutiqueSuite\bin\Debug\BoutiqueSuite.pdb
+E:\BoutiqueSuite\obj\Debug\BoutiqueSuite.csprojResolveAssemblyReference.cache
+E:\BoutiqueSuite\obj\Debug\BoutiqueSuite.FrmMain.resources
+E:\BoutiqueSuite\obj\Debug\BoutiqueSuite.Properties.Resources.resources
+E:\BoutiqueSuite\obj\Debug\BoutiqueSuite.csproj.GenerateResource.Cache

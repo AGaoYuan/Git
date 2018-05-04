@@ -1,0 +1,9 @@
+D:\VS\S2230\项目\汽车租赁系统\MyCar Rental\bin\Debug\MyCar Rental.exe.config
+D:\VS\S2230\项目\汽车租赁系统\MyCar Rental\bin\Debug\MyCar Rental.exe
+D:\VS\S2230\项目\汽车租赁系统\MyCar Rental\bin\Debug\MyCar Rental.pdb
+D:\VS\S2230\项目\汽车租赁系统\MyCar Rental\obj\Debug\MyCar_Rental.FrmMain.resources
+D:\VS\S2230\项目\汽车租赁系统\MyCar Rental\obj\Debug\MyCar_Rental.Properties.Resources.resources
+D:\VS\S2230\项目\汽车租赁系统\MyCar Rental\obj\Debug\MyCar Rental.csproj.GenerateResource.Cache
+D:\VS\S2230\项目\汽车租赁系统\MyCar Rental\obj\Debug\MyCar Rental.exe
+D:\VS\S2230\项目\汽车租赁系统\MyCar Rental\obj\Debug\MyCar Rental.pdb
+D:\VS\S2230\项目\汽车租赁系统\MyCar Rental\obj\Debug\MyCar Rental.csprojResolveAssemblyReference.cache

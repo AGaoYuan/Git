@@ -1,0 +1,9 @@
+D:\VS\S2230\二期项目\影院售票系统11\MyTheaterTicket\MyTheaterTicket\bin\Debug\MyTheaterTicket.exe.config
+D:\VS\S2230\二期项目\影院售票系统11\MyTheaterTicket\MyTheaterTicket\bin\Debug\MyTheaterTicket.exe
+D:\VS\S2230\二期项目\影院售票系统11\MyTheaterTicket\MyTheaterTicket\bin\Debug\MyTheaterTicket.pdb
+D:\VS\S2230\二期项目\影院售票系统11\MyTheaterTicket\MyTheaterTicket\obj\Debug\MyTheaterTicket.csprojResolveAssemblyReference.cache
+D:\VS\S2230\二期项目\影院售票系统11\MyTheaterTicket\MyTheaterTicket\obj\Debug\MyTheaterTicket.FrmMain.resources
+D:\VS\S2230\二期项目\影院售票系统11\MyTheaterTicket\MyTheaterTicket\obj\Debug\MyTheaterTicket.Properties.Resources.resources
+D:\VS\S2230\二期项目\影院售票系统11\MyTheaterTicket\MyTheaterTicket\obj\Debug\MyTheaterTicket.csproj.GenerateResource.Cache
+D:\VS\S2230\二期项目\影院售票系统11\MyTheaterTicket\MyTheaterTicket\obj\Debug\MyTheaterTicket.exe
+D:\VS\S2230\二期项目\影院售票系统11\MyTheaterTicket\MyTheaterTicket\obj\Debug\MyTheaterTicket.pdb

@@ -1,0 +1,6 @@
+D:\VS\S2230\二期项目\影院售票系统11\MyTheaterTicket\Demo\bin\Debug\Demo.exe.config
+D:\VS\S2230\二期项目\影院售票系统11\MyTheaterTicket\Demo\bin\Debug\Demo.exe
+D:\VS\S2230\二期项目\影院售票系统11\MyTheaterTicket\Demo\bin\Debug\Demo.pdb
+D:\VS\S2230\二期项目\影院售票系统11\MyTheaterTicket\Demo\obj\Debug\Demo.exe
+D:\VS\S2230\二期项目\影院售票系统11\MyTheaterTicket\Demo\obj\Debug\Demo.pdb
+D:\VS\S2230\二期项目\影院售票系统11\MyTheaterTicket\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache

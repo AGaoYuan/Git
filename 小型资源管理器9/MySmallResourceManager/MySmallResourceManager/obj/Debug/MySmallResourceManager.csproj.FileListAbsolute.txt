@@ -1,0 +1,9 @@
+D:\VS\S2230\项目\小型资源管理器\MySmallResourceManager\MySmallResourceManager\bin\Debug\MySmallResourceManager.exe.config
+D:\VS\S2230\项目\小型资源管理器\MySmallResourceManager\MySmallResourceManager\bin\Debug\MySmallResourceManager.exe
+D:\VS\S2230\项目\小型资源管理器\MySmallResourceManager\MySmallResourceManager\bin\Debug\MySmallResourceManager.pdb
+D:\VS\S2230\项目\小型资源管理器\MySmallResourceManager\MySmallResourceManager\obj\Debug\MySmallResourceManager.csprojResolveAssemblyReference.cache
+D:\VS\S2230\项目\小型资源管理器\MySmallResourceManager\MySmallResourceManager\obj\Debug\MySmallResourceManager.FrmMain.resources
+D:\VS\S2230\项目\小型资源管理器\MySmallResourceManager\MySmallResourceManager\obj\Debug\MySmallResourceManager.Properties.Resources.resources
+D:\VS\S2230\项目\小型资源管理器\MySmallResourceManager\MySmallResourceManager\obj\Debug\MySmallResourceManager.csproj.GenerateResource.Cache
+D:\VS\S2230\项目\小型资源管理器\MySmallResourceManager\MySmallResourceManager\obj\Debug\MySmallResourceManager.exe
+D:\VS\S2230\项目\小型资源管理器\MySmallResourceManager\MySmallResourceManager\obj\Debug\MySmallResourceManager.pdb

@@ -1,0 +1,9 @@
+D:\VS\S2230\深入.NET平台和C#编程\可扩展标记语言XML\Day01_0100Demo01\简单工厂+计算器\bin\Debug\简单工厂+计算器.exe.config
+D:\VS\S2230\深入.NET平台和C#编程\可扩展标记语言XML\Day01_0100Demo01\简单工厂+计算器\bin\Debug\简单工厂+计算器.exe
+D:\VS\S2230\深入.NET平台和C#编程\可扩展标记语言XML\Day01_0100Demo01\简单工厂+计算器\bin\Debug\简单工厂+计算器.pdb
+D:\VS\S2230\深入.NET平台和C#编程\可扩展标记语言XML\Day01_0100Demo01\简单工厂+计算器\obj\Debug\简单工厂+计算器.csprojResolveAssemblyReference.cache
+D:\VS\S2230\深入.NET平台和C#编程\可扩展标记语言XML\Day01_0100Demo01\简单工厂+计算器\obj\Debug\简单工厂_计算器.FrmMain.resources
+D:\VS\S2230\深入.NET平台和C#编程\可扩展标记语言XML\Day01_0100Demo01\简单工厂+计算器\obj\Debug\简单工厂_计算器.Properties.Resources.resources
+D:\VS\S2230\深入.NET平台和C#编程\可扩展标记语言XML\Day01_0100Demo01\简单工厂+计算器\obj\Debug\简单工厂+计算器.csproj.GenerateResource.Cache
+D:\VS\S2230\深入.NET平台和C#编程\可扩展标记语言XML\Day01_0100Demo01\简单工厂+计算器\obj\Debug\简单工厂+计算器.exe
+D:\VS\S2230\深入.NET平台和C#编程\可扩展标记语言XML\Day01_0100Demo01\简单工厂+计算器\obj\Debug\简单工厂+计算器.pdb
